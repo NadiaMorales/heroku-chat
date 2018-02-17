@@ -8,5 +8,9 @@
     },
     "scripts": {
         "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NadiaMorales/heroku-chat.git"
     }
 }
