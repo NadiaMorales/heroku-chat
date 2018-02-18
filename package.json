@@ -2,6 +2,7 @@
     "name": "socket-chat-example",
     "version": "0.0.1",
     "description": "my first socket.io app",
+    "main": "index.js",
     "dependencies": {
         "express": "^4.15.2",
         "socket.io": "^2.0.4"
@@ -12,5 +13,11 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/NadiaMorales/heroku-chat.git"
-    }
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NadiaMorales/heroku-chat/issues"
+    },
+    "homepage": "https://github.com/NadiaMorales/heroku-chat/index.js"
 }
